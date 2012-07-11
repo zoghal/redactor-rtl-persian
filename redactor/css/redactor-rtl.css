@@ -1,0 +1,34 @@
+.redactor_toolbar li {
+	float : right !important;
+	list-style-type : none;
+	padding : 3px 1px 3px 0;
+}
+
+.redactor_toolbar li a {
+	direction : rtl;
+}
+
+li.redactor_toolbar_right {
+	float : left !important;
+	padding-left : 1px !important;
+	
+}
+
+ #redactor_modal {
+	font-family : Tahoma;
+	direction : rtl;
+}
+
+ #redactor_modal_close {
+	left : 0;
+	right : auto;
+}
+
+ #redactor_btn_modal_close {
+	margin-right : 10px;
+	margin-left : 0px;
+}
+.redactor_dropdown {
+	direction : rtl;
+	font-family : Tahoma;
+}
